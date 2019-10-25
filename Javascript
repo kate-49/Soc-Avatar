@@ -1,0 +1,7 @@
+cape.flip()
+eyes.look()
+shoes.raise()
+topdesign.spin()
+hairstyle.disco()
+eyebrows.disco()
+jump1.jump()
